@@ -1,2 +1,1 @@
-zookeeper
-kafka
+confluentinc/cp-kafka:latest
