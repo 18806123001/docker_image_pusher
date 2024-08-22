@@ -1,3 +1,2 @@
 #confluentinc/cp-kafka:latest
 mysql:5.7
-mysql:8.0
