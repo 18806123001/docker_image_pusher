@@ -1,1 +1,2 @@
-confluentinc/cp-kafka:latest
+#confluentinc/cp-kafka:latest
+mysql:latest
