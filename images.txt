@@ -1,4 +1,6 @@
 #confluentinc/cp-kafka:latest
 #mysql:5.7
 #rabbitmq:3.12-management
-google/cadvisor
+#google/cadvisor
+prom/prometheus
+grafana/grafana
