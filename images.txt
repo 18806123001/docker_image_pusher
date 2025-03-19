@@ -2,5 +2,6 @@
 #mysql:5.7
 #rabbitmq:3.12-management
 #google/cadvisor
-prom/prometheus
-grafana/grafana
+#prom/prometheus
+#grafana/grafana
+jenkins
