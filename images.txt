@@ -4,4 +4,4 @@
 #google/cadvisor
 #prom/prometheus
 #grafana/grafana
-jenkins
+jenkins/jenkins:latest
