@@ -5,4 +5,4 @@
 #prom/prometheus
 #grafana/grafana
 #jenkins/jenkins:latest
-beats/filebeat:8.15.0
+beats/filebeat:latest
