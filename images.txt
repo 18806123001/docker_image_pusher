@@ -5,4 +5,4 @@
 #prom/prometheus
 #grafana/grafana
 #jenkins/jenkins:latest
-beats/filebeat:latest
+docker.elastic.co/beats/filebeat:9.1.3
