@@ -7,4 +7,5 @@
 #jenkins/jenkins:latest
 #docker.elastic.co/beats/filebeat:9.1.3
 #docker.elastic.co/logstash/logstash:9.1.3
-gitlab/gitlab-runner:v11.1.0
+#gitlab/gitlab-runner:v11.1.0
+tomcat:9.0.52
